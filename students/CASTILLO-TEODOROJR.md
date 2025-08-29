@@ -1,0 +1,6 @@
+- Program: BSIT
+- Year: 3rd Year
+- Section: G5
+- Favorite Language: Assembly
+- One Git Tip Learned: Review changes before doing 'git push'
+- GitHub: @Deezerto
