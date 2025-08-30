@@ -1,0 +1,6 @@
+- Program: BSIT
+- Year: 3rd Year
+- Section: G5
+- Favorite Language: Java, Javascript
+- One Git Tip Learned: Use git diff to see changes before committing.
+- GitHub: @ivebaan
